@@ -80,5 +80,6 @@ The task requires overwriting the "safe_var" with the provided "input_data."
 5. **Execute**: Execute the binary file with the crafted input to overwrite "safe_var" and capture the flag.
 ### Result
 Using the buffer input aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaACMR and overwrites the `safe_var` as ACMR and the flag `acm_ftw` was obtained
+
 ![Screenshot 2024-03-25 215556](https://github.com/adii2ma/acmtask/assets/164670196/7693c152-0101-476c-8e41-deb637df511d)
  
